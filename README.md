@@ -1,13 +1,14 @@
-## Hi there 👋
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+soy+Alexander+%F0%9F%91%8B;Ingeniero+de+Software;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>
+    
 
 <p align="right"> <h3>Profile Views :-</h3> 
   </p>
 
 <img src="https://profile-counter.glitch.me/AlexanderA31/count.svg">
 
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+soy+Alexander+%F0%9F%91%8B;Ingeniero+de+Software;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
-    </div>
+
     
 <!--
 **AlexanderA31/AlexanderA31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
