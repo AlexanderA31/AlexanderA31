@@ -9,12 +9,12 @@
 <img src="https://profile-counter.glitch.me/AlexanderA31/count.svg">
 
 ### 💫 About Me:
+- 😄 Mi especialidad es **Ingeniería de software**
 - 🔭 Actualmente estoy trabajando en la creación de sistemas innovadores, como un sistema de venta en línea con alertas tempranas para proveedores.
-- 🌱 Actualmente estoy aprendiendo sobre las últimas herramientas informáticas y tecnologías emergentes en programación.
+- 🌱 Estoy aprendiendo sobre las últimas herramientas informáticas y tecnologías emergentes en programación.
 - 👯 Estoy buscando colaborar en proyectos de desarrollo de software que involucren soluciones creativas y trabajo en equipo.
 - 💬 Pregúntame sobre programación, bases de datos, y cómo resolver problemas creativamente en el desarrollo de software.
 - 📫 Cómo contactarme: alex.alegria.chaves2001@gmail.com
-- 😄 Mi especialidad es **Ingeniería de software**
 - ⚡ Dato curioso: Disfruto enfrentar desafíos en el mundo de la programación y estoy constantemente actualizando mis habilidades para adaptarme a las nuevas tecnologías.  
 
 ### Languages and Tools 🛠 
