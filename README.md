@@ -17,7 +17,7 @@
 - 📫 Cómo contactarme: alex.alegria.chaves2001@gmail.com
 - ⚡ Dato curioso: Disfruto enfrentar desafíos en el mundo de la programación y estoy constantemente actualizando mis habilidades para adaptarme a las nuevas tecnologías.  
 
-### Languages and Tools 🛠 
+### 🛠 Languages and Tools:
 
 <br>
 
