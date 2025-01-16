@@ -19,7 +19,7 @@
 
 ### 🛠 Languages and Tools:
 <p align="center">
-    <a href="https://alexanderdev-portafolio.vercel.app/"><img alt="Tecnologías" src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel,react,redux,kotlin,angular,wordpress,django,azure,vite,npm,androidstudio,flutter,github,git,linux,windows,ubuntu,debian,kali,gradle,arduino,postman,powershell,phpstorm,stackoverflow,sublime,vscode,eclipse,postgres,mysql,mongodb,heroku,gcp,sqlite,firebase" width="auto"></a>
+    <a><img alt="Tecnologías" src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel,react,redux,kotlin,angular,wordpress,django,azure,vite,npm,androidstudio,flutter,github,git,linux,windows,ubuntu,debian,kali,gradle,arduino,postman,powershell,phpstorm,stackoverflow,sublime,vscode,eclipse,postgres,mysql,mongodb,heroku,gcp,sqlite,firebase" width="auto"></a>
 </p>
 <br>
 
