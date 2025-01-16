@@ -19,18 +19,10 @@
 
 ### 🛠 Languages and Tools:
 <p align="center">
-    <a href="https://alexanderdev-portafolio.vercel.app/"><img alt="Tecnologías" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,jquery,laravel,materialui,react,redux,kotlin,angular,wordpress,django,flask,azure,vite,npm,androidstudio,flutter,docker,github,git,linux,windows,ubuntu,debian,kali,gradle,arduino,netlify,nginx,postman,powershell,pycharm,phpstorm,stackoverflow,sublime,vscode,eclipse,postgres,mysql,mongodb,heroku,gcp,sqlite,firebase,codepen" width="auto"></a>
+    <a href="https://alexanderdev-portafolio.vercel.app/"><img alt="Tecnologías" src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel,react,redux,kotlin,angular,wordpress,django,azure,vite,npm,androidstudio,flutter,github,git,linux,windows,ubuntu,debian,kali,gradle,arduino,postman,powershell,phpstorm,stackoverflow,sublime,vscode,eclipse,postgres,mysql,mongodb,heroku,gcp,sqlite,firebase,codepen" width="auto"></a>
 </p>
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  
-
- <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> 
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
-<img src="https://img.icons8.com/color/48/000000/cucumber.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
 
 <br>
 
