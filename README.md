@@ -18,7 +18,9 @@
 - ⚡ Dato curioso: Disfruto enfrentar desafíos en el mundo de la programación y estoy constantemente actualizando mis habilidades para adaptarme a las nuevas tecnologías.  
 
 ### 🛠 Languages and Tools:
-
+<p align="center">
+    <a href="https://alexanderdev-portafolio.vercel.app/"><img alt="Tecnologías" src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,jquery,laravel,materialui,react,redux,kotlin,angular,wordpress,django,flask,azure,vite,npm,androidstudio,flutter,docker,github,git,linux,windows,ubuntu,debian,kali,gradle,arduino,netlify,nginx,postman,powershell,pycharm,phpstorm,stackoverflow,sublime,vscode,eclipse,postgres,mysql,mongodb,heroku,gcp,sqlite,firebase,codepen" width="auto"></a>
+</p>
 <br>
 
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>  
