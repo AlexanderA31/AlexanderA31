@@ -3,9 +3,6 @@
     </div>
     
 
-<p align="right"> <h3>Profile Views :-</h3> 
-  </p>
-
 <img src="https://profile-counter.glitch.me/AlexanderA31/count.svg">
 
 ### 💫 About Me:
