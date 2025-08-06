@@ -3,8 +3,6 @@
     </div>
     
 
-<img src="https://profile-counter.glitch.me/AlexanderA31/count.svg">
-
 ### 💫 About Me:
 - 😄 Mi especialidad es **Ingeniería de software**
 - 🔭 Actualmente estoy trabajando en la creación de sistemas innovadores, como un sistema de venta en línea con alertas tempranas para proveedores.
