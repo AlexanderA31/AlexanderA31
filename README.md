@@ -4,7 +4,7 @@
     
 
 ### 💫 About Me:
-- 😄 Mi especialidad es **Ingeniería de software**
+- 😄 Mi especialidad es **Desarrollo de software**
 - 🔭 Actualmente estoy trabajando en la creación de sistemas innovadores, como un sistema de venta en línea con alertas tempranas para proveedores.
 - 🌱 Estoy aprendiendo sobre las últimas herramientas informáticas y tecnologías emergentes en programación.
 - 👯 Estoy buscando colaborar en proyectos de desarrollo de software que involucren soluciones creativas y trabajo en equipo.
