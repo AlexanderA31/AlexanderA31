@@ -20,7 +20,19 @@
 
 
 <br>
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AlexanderA31&theme=darkhub&no-frame=true&no-bg=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexanderA31&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderA31&layout=compact&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AlexanderA31&theme=radical&hide_border=true" />
+</p>
 
 
 <p align="center">
