@@ -18,9 +18,8 @@
 </p>
 <br>
 
-
-<br>
 ## 📈 GitHub Stats
+<br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AlexanderA31&theme=darkhub&no-frame=true&no-bg=true" />
 </p>
