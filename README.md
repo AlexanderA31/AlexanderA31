@@ -18,10 +18,7 @@
 </p>
 <br>
 
-## 📈 GitHub Stats
-<br>
-
-
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexanderA31&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderA31&layout=compact&theme=radical" height="160"/>
