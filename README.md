@@ -27,5 +27,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderA31&layout=compact&theme=radical" height="160"/>
 </p>
 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
+
+</p>
 
 
