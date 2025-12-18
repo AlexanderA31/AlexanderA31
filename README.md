@@ -20,9 +20,7 @@
 
 ## 📈 GitHub Stats
 <br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlexanderA31&theme=darkhub&no-frame=true&no-bg=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexanderA31&show_icons=true&theme=radical" height="160"/>
@@ -33,8 +31,3 @@
   <img src="https://streak-stats.demolab.com?user=AlexanderA31&theme=radical&hide_border=true" />
 </p>
 
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
