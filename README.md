@@ -27,7 +27,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderA31&layout=compact&theme=radical" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AlexanderA31&theme=radical&hide_border=true" />
-</p>
+
 
