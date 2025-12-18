@@ -1,7 +1,8 @@
+
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+soy+Alexander+%F0%9F%91%8B;Ingeniero+de+Software" alt="Headline" />
     </div>
-    
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)    
 
 ### 💫 About Me:
 - 😄 Mi especialidad es **Desarrollo de software**
@@ -17,7 +18,7 @@
     <a><img alt="Tecnologías" src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel,react,redux,kotlin,angular,wordpress,django,azure,vite,npm,androidstudio,flutter,github,git,linux,windows,ubuntu,debian,kali,gradle,arduino,postman,powershell,phpstorm,stackoverflow,sublime,vscode,eclipse,postgres,mysql,mongodb,heroku,gcp,sqlite,firebase" width="auto"></a>
 </p>
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexanderA31&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderA31&layout=compact&theme=radical" height="160"/>
