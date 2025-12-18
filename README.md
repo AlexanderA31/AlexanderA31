@@ -16,7 +16,6 @@
 <p align="center">
     <a><img alt="Tecnologías" src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel,react,redux,kotlin,angular,wordpress,django,azure,vite,npm,androidstudio,flutter,github,git,linux,windows,ubuntu,debian,kali,gradle,arduino,postman,powershell,phpstorm,stackoverflow,sublime,vscode,eclipse,postgres,mysql,mongodb,heroku,gcp,sqlite,firebase" width="auto"></a>
 </p>
-<br>
 
 ### 📈 GitHub Stats
 <p align="center">
